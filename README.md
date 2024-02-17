@@ -1,6 +1,6 @@
 # Data Mining
 
-## Title:## Physicochemical Properties and Quality of Red Wine: A Comprehensive Analysis
+## Title:## Physicochemical Properties and Quality of Red Wine: A Comprehensive Analysis.
 
 I. Introduction
 In 2022, the United States claimed the top spot for consuming the largest volume of wine globally, particularly favoring Merlot as the most popular red wine variety. This project aims to explore the relationship between the physicochemical properties of red wines and their sensory quality ratings.
