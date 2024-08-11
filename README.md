@@ -30,6 +30,6 @@ IX. Classification Models
 Multi-class and two-class classification models were explored using DecisionTree, Random Forest, Boosted Trees, Logistic Regression, and KNN. Recommendations were made based on the model performances.
 
 X. Recommendations
-Key recommendations included utilizing alcohol, volatile acidity, sulfates, and pH for predicting wine quality, emphasizing the importance of physicochemical properties. Additionally, addressing dataset imbalance through oversampling techniques was suggested for more accurate modeling.
+Key recommendations included utilizing alcohol, volatile acidity, sulfates, and pH for predicting wine quality, emphasizing the importance of physicochemical properties. Additionally, addressing dataset imbalance through oversampling techniques was suggested for more accurate modeling
 
 The findings provide valuable insights for stakeholders in the wine industry, aiding in the optimization of production processes, quality improvement, and strategic pricing decisions.
